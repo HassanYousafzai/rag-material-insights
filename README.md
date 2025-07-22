@@ -75,7 +75,7 @@ python app.py
 
 ## 🖼️ User Interface
 
-![App Screenshot](ui_screenshot.png)
+![App Screenshot](ui_screenshot.PNG)
 
 ---
 

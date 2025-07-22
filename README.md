@@ -33,10 +33,10 @@ The system performs the following steps:
 
 ## 📁 Project Structure
 
-- `app.py` — Main application logic (UI, retrieval, generation)
+- `rag_material_insights.py` — Main application logic (UI, retrieval, generation)
 - `Data.csv` — Dataset used to retrieve strength data
 - `requirements.txt` — All dependencies to recreate the environment
-- `screenshot.png` — Preview of the tool's interface
+- `ui_screenshot.png` — Preview of the tool's interface
 
 ---
 
@@ -75,7 +75,7 @@ python app.py
 
 ## 🖼️ User Interface
 
-![App Screenshot](screenshot.png)
+![App Screenshot](ui_screenshot.png)
 
 ---
 

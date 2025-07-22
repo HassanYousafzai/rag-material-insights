@@ -1,1 +1,1 @@
-# rag-material-insights
+# RAG Material Insights
